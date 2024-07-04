@@ -3,12 +3,12 @@
   justify-content: space-between;
   align-items: center;
   padding: 15px;
-  border-bottom: 1px solid rgb(69 189 69);
+  border-bottom: 1px solid rgb(71, 5, 252);
 }
 /* ----------global styles for link---------------*/
 
 .link:global(.active) {
-  color: rgb(100, 255, 95);
+  color: rgb(236, 233, 49);
 }
 
 .link:not(:last-child) {
@@ -27,7 +27,7 @@
   cursor: pointer;
   transition: all 0.3s ease 0s;
   color: rgb(255, 255, 255);
-  background-color: #00ddff;
+  background-color: #5327cc;
 }
 
 .link:hover,

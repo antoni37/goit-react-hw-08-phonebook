@@ -21,6 +21,6 @@
   font-size: 20px;
 }
 .input:focus {
-  border-color: #00ddff;
+  border-color: #edf8fa;
   box-shadow: 0px 0px 8px 0px rgba(34, 60, 80, 0.2);
 }
